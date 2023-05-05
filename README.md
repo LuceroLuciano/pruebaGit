@@ -13,3 +13,5 @@ Hola Lucero 👋
 Hola Violeta, Bienvenida al taller de Git 😊
 
 Hola soy Violeta Africana y estoy aprendiendo Git
+
+Bienvenidxs al taller de Git
