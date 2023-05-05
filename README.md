@@ -11,3 +11,5 @@ Hi, I´m learning Git
 Hola Lucero 👋
 
 Hola Violeta, Bienvenida al taller de Git 😊
+
+Hola soy Violeta Africana y estoy aprendiendo Git
